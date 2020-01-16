@@ -1,0 +1,12 @@
+C:\Users\Damla\Source\repos\RabbitExample\RebbitMQ_Receive\bin\Debug\RebbitMQ_Receive.exe.config
+C:\Users\Damla\Source\repos\RabbitExample\RebbitMQ_Receive\bin\Debug\RebbitMQ_Receive.exe
+C:\Users\Damla\Source\repos\RabbitExample\RebbitMQ_Receive\bin\Debug\RebbitMQ_Receive.pdb
+C:\Users\Damla\Source\repos\RabbitExample\RebbitMQ_Receive\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Damla\Source\repos\RabbitExample\RebbitMQ_Receive\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Damla\Source\repos\RabbitExample\RebbitMQ_Receive\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Damla\Source\repos\RabbitExample\RebbitMQ_Receive\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Damla\Source\repos\RabbitExample\RebbitMQ_Receive\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Damla\Source\repos\RabbitExample\RebbitMQ_Receive\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Damla\Source\repos\RabbitExample\RebbitMQ_Receive\obj\Debug\RebbitMQ_Receive.csproj.CopyComplete
+C:\Users\Damla\Source\repos\RabbitExample\RebbitMQ_Receive\obj\Debug\RebbitMQ_Receive.exe
+C:\Users\Damla\Source\repos\RabbitExample\RebbitMQ_Receive\obj\Debug\RebbitMQ_Receive.pdb

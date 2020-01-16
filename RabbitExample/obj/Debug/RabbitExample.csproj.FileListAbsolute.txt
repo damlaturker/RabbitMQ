@@ -1,0 +1,13 @@
+C:\Users\Damla\Source\repos\RabbitExample\RabbitExample\bin\Debug\RabbitExample.exe.config
+C:\Users\Damla\Source\repos\RabbitExample\RabbitExample\bin\Debug\RabbitExample.exe
+C:\Users\Damla\Source\repos\RabbitExample\RabbitExample\bin\Debug\RabbitExample.pdb
+C:\Users\Damla\Source\repos\RabbitExample\RabbitExample\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Damla\Source\repos\RabbitExample\RabbitExample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Damla\Source\repos\RabbitExample\RabbitExample\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Damla\Source\repos\RabbitExample\RabbitExample\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Damla\Source\repos\RabbitExample\RabbitExample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Damla\Source\repos\RabbitExample\RabbitExample\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Damla\Source\repos\RabbitExample\RabbitExample\obj\Debug\RabbitExample.csprojAssemblyReference.cache
+C:\Users\Damla\Source\repos\RabbitExample\RabbitExample\obj\Debug\RabbitExample.csproj.CopyComplete
+C:\Users\Damla\Source\repos\RabbitExample\RabbitExample\obj\Debug\RabbitExample.exe
+C:\Users\Damla\Source\repos\RabbitExample\RabbitExample\obj\Debug\RabbitExample.pdb
